@@ -1,4 +1,4 @@
 # prueba
-#Mi primer repositorio
-##subtitulo
+# Mi primer repositorio
+## Subtitulo
 Lorem ipsum
